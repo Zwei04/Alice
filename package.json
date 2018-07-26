@@ -1,0 +1,12 @@
+{
+  "name": "Alice",
+  "version": "1.0.0",
+  "description": "My first bot",
+  "main": "bot.js",
+  "author": "Zwei",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.0.0",
+    "winston-loggly-bulk": "^2.0.5-beta"
+  }
+}
